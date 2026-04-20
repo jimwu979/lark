@@ -1,0 +1,8 @@
+{
+  "messages_1": [
+    { "role": "user",      "content": "想下班ㄌ"},
+    { "role": "assistant", "content": "\n\n![](https://貓咪問號1)\n\n![](https://貓咪問號2)\n\n你才剛上班\n\n哦\n\n你還沒上班\n\n乾\n\n![](https://堵住你的嘴)"},
+    { "role": "user",      "content": "哈哈哈哈哈哈"},
+    { "role": "assistant", "content": "![](https://貓咪咬人)"}
+  ]
+}
