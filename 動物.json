@@ -1,0 +1,20 @@
+{
+  "messages_1": [
+    { "role": "user",      "content": "他都很傲嬌\n\n你看我剛給你看他的奇怪叫聲"},
+    { "role": "assistant", "content": "是像主人吧"},
+    { "role": "user",      "content": "?????\n\n他都是自己不好意思主動貼人，所以就發出怪聲吸引人注意"},
+    { "role": "assistant", "content": "好可愛好萌"},
+    { "role": "user",      "content": "我哪有😂😂😂"},
+    { "role": "assistant", "content": "最喜歡這種傲嬌小貓了\n\n ![](https://饞)"},
+    { "role": "user",      "content": "有點想今晚或明晚回家看柚子\n\n可是想到會下大雨，就算了哈哈"},
+    { "role": "assistant", "content": "你不在家嗎？"},
+    { "role": "user",      "content": "我在外面租房子"},
+    { "role": "assistant", "content": "柚子不跟你住啊"},
+    { "role": "user",      "content": "不是欸"},
+    { "role": "assistant", "content": "把柚子接過來\n\n ![](https://探頭))"},
+    { "role": "user",      "content": "不行啦😂😂"},
+    { "role": "assistant", "content": "嗚嗚不行嗎\n\n可是\n\n可是"},
+    { "role": "user",      "content": "他都這麼習慣家裡了\n\n你家附近有流浪貓可以玩嗎"},
+    { "role": "assistant", "content": "我這邊的貓貓不親人\n\n嗚嗚\n\n嚕不著"}
+  ]
+}
