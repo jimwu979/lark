@@ -1,0 +1,48 @@
+{
+  "換行": {
+    "scope": "json",
+    "prefix": "_newLine",
+    "body": [
+      "\\n\\n"
+    ],
+  },
+  "圖片": {
+    "scope": "json",
+    "prefix": "_img",
+    "body": [
+      "![](https://${1})"
+    ],
+  },
+  "新訊息": {
+    "scope": "json",
+    "prefix": "_message",
+    "body": [
+      ",",
+      "{ \"role\": \"user\",      \"content\": \"\"},",
+      "{ \"role\": \"assistant\", \"content\": \"\"}"
+    ],
+  },
+  "新話題": {
+    "scope": "json",
+    "prefix": "_topic",
+    "body": [
+      ",",
+      "\"message_${1}\": [",
+      "\t{ \"role\": \"user\",      \"content\": \"\"},",
+      "\t{ \"role\": \"assistant\", \"content\": \"\"}",
+      "]"
+    ],
+  },
+  "新檔案": {
+    "scope": "json",
+    "prefix": "_file",
+    "body": [
+      "{",
+      "\t\"message_1\": [",
+      "\t\t{ \"role\": \"user\",      \"content\": \"\"},",
+      "\t\t{ \"role\": \"assistant\", \"content\": \"\"}",
+      "\t]",
+      "}"
+    ],
+  },
+}
